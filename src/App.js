@@ -12,7 +12,7 @@ function App() {
 			<Sidebar />
 			<Routes>
 				<Route
-					path="/Dashboard"
+					path="/"
 					element={<Dashboard />}
 				/>
 				<Route
