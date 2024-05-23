@@ -82,7 +82,7 @@ return (
 				<h3>Followers</h3>
 				<BsFillBellFill className='card_icon'/>
 			</div>
-			<h1>45,9%</h1>
+			<h1>45.9%</h1>
 		</div>
 	</div>
 
@@ -214,7 +214,7 @@ return (
 				<h3>Followers</h3>
 				<BsFillBellFill className='card_icon'/>
 			</div>
-			<h1>45,9%</h1>
+			<h1>45.9%</h1>
 		</div>
 	</div>
 
@@ -346,7 +346,7 @@ return (
 				<h3>Followers</h3>
 				<BsFillBellFill className='card_icon'/>
 			</div>
-			<h1>45,9%</h1>
+			<h1>45.9%</h1>
 		</div>
 	</div>
 
@@ -477,7 +477,7 @@ return (
 				<h3>Followers</h3>
 				<BsFillBellFill className='card_icon'/>
 			</div>
-			<h1>45,9%</h1>
+			<h1>45.9%</h1>
 		</div>
 	</div>
 
@@ -609,7 +609,7 @@ return (
 				<h3>Followers</h3>
 				<BsFillBellFill className='card_icon'/>
 			</div>
-			<h1>45,9%</h1>
+			<h1>45.9%</h1>
 		</div>
 	</div>
 
@@ -742,7 +742,7 @@ return (
 				<h3>Followers</h3>
 				<BsFillBellFill className='card_icon'/>
 			</div>
-			<h1>45,9%</h1>
+			<h1>45.9%</h1>
 		</div>
 	</div>
 
@@ -873,7 +873,7 @@ return (
 				<h3>Followers</h3>
 				<BsFillBellFill className='card_icon'/>
 			</div>
-			<h1>45,9%</h1>
+			<h1>45.9%</h1>
 		</div>
 	</div>
 
@@ -1005,7 +1005,7 @@ return (
 				<h3>Followers</h3>
 				<BsFillBellFill className='card_icon'/>
 			</div>
-			<h1>45,9%</h1>
+			<h1>45.9%</h1>
 		</div>
 	</div>
 
