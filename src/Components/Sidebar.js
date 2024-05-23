@@ -5,7 +5,7 @@ import * as FaIcons from "react-icons/fa";
 import { SidebarData } from "./SidebarData";
 import SubMenu from "./SubMenu";
 import { IconContext } from "react-icons/lib";
-import { GiHamburgerMenu } from "react-icons/gi";
+import { HiXMark } from "react-icons/hi2";
 
 const Nav = styled.div`
     background-color: gray;
@@ -70,7 +70,7 @@ const Sidebar = () => {
 					<SidebarWrap>
 						<NavIcon to="#">
 							
-						<GiHamburgerMenu
+						<HiXMark 
 						onClick={showSidebar}
 						
 						/>
